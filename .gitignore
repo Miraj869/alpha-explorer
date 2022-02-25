@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Extra data files
+/python-scripts/data/all_cik.pdsv
+/python-scripts/data/company_list.csv
