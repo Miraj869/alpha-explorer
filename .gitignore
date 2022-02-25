@@ -106,3 +106,5 @@ dist
 # Extra data files
 /python-scripts/data/all_cik.pdsv
 /python-scripts/data/company_list.csv
+python-scripts/data/all_cik.pdsv
+python-scripts/data/company_list.csv
