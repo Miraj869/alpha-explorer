@@ -16,7 +16,7 @@ This is a team project by:
 
 - [Prateek Singh](https://github.com/pksingh21)
 - [Raghav Gade](https://github.com/huntrag)
-- Miraj Shah
+- [Miraj Shah](https://github.com/Miraj869)
 - [Kaushik Dey](https://github.com/Kaushikdey647)
 - [Chinmay Negi](https://github.com/Chinmay-024)
 
