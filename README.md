@@ -1,3 +1,9 @@
+# **TEAM MEMBERS**
+- Miraj Shah
+- Kaushik Dey
+- Raghav Gade
+- Prateek Singh
+
 # **ALPHA EXPLORER**
 A SEC Filing Explorer for Inter IIT Tech Meet High Prep Challenge 2022
 <hr>
